@@ -1,0 +1,89 @@
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\bin\Debug\speechapi.exe.config
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\bin\Debug\speechapi.exe
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\bin\Debug\speechapi.pdb
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\bin\Debug\SpeechClient.dll
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\obj\Debug\speechapi.csprojAssemblyReference.cache
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\obj\Debug\MainWindow.g.cs
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\obj\Debug\App.g.cs
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\obj\Debug\speechapi_MarkupCompile.cache
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\obj\Debug\speechapi_MarkupCompile.lref
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\obj\Debug\MainWindow.baml
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\obj\Debug\speechapi.g.resources
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\obj\Debug\speechapi.Properties.Resources.resources
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\obj\Debug\speechapi.csproj.GenerateResource.cache
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\obj\Debug\speechapi.csproj.CoreCompileInputs.cache
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\obj\Debug\speechapi.csproj.CopyComplete
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\obj\Debug\speechapi.exe
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\obj\Debug\speechapi.pdb
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\bin\Debug\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.dll
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\bin\Debug\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.xml
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\saksham\Desktop\codefundooo\speechapi\speechapi\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\obj\Debug\speechapi.csprojAssemblyReference.cache
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\obj\Debug\MainWindow.g.cs
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\obj\Debug\App.g.cs
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\obj\Debug\speechapi_MarkupCompile.cache
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\obj\Debug\speechapi_MarkupCompile.lref
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\obj\Debug\speechapi.exe
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\obj\Debug\speechapi.pdb
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\bin\Debug\speechapi.exe.config
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\bin\Debug\speechapi.exe
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\bin\Debug\speechapi.pdb
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\bin\Debug\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.dll
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\bin\Debug\SpeechClient.dll
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\bin\Debug\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.xml
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\obj\Debug\MainWindow.baml
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\obj\Debug\speechapi.g.resources
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\obj\Debug\speechapi.Properties.Resources.resources
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\obj\Debug\speechapi.csproj.GenerateResource.cache
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\obj\Debug\speechapi.csproj.CoreCompileInputs.cache
+C:\Users\saksham\Desktop\codefun-v3\speechapi\speechapi\obj\Debug\speechapi.csproj.CopyComplete
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\speechapi.exe.config
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\speechapi.exe
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\speechapi.pdb
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\SpeechClient.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.xml
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\obj\Debug\speechapi.csprojAssemblyReference.cache
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\obj\Debug\MainWindow.g.cs
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\obj\Debug\App.g.cs
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\obj\Debug\speechapi_MarkupCompile.cache
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\obj\Debug\speechapi_MarkupCompile.lref
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\obj\Debug\MainWindow.baml
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\obj\Debug\speechapi.g.resources
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\obj\Debug\speechapi.Properties.Resources.resources
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\obj\Debug\speechapi.csproj.GenerateResource.cache
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\obj\Debug\speechapi.csproj.CoreCompileInputs.cache
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\obj\Debug\speechapi.csproj.CopyComplete
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\obj\Debug\speechapi.exe
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\obj\Debug\speechapi.pdb
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\EntityFramework.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\System.Data.SQLite.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\System.Net.Http.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\EntityFramework.xml
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\System.Data.SQLite.xml
+C:\Users\saksham\Desktop\codefun-v3 - Copy\speechapi\speechapi\bin\Debug\System.Data.SQLite.dll.config
